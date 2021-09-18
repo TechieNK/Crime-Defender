@@ -25,7 +25,7 @@ SECRET_KEY = '^n5bhq77$a=rgjsp(1#!u&0a+wdnqs3bn22bb3@mf$)k@#x$fa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','crime-defender.herokuapp.com']
 
 
 # Application definition
