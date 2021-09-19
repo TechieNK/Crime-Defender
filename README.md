@@ -10,8 +10,8 @@ as to avoid conflicts with other projects.
 1. Clone the repository
 
  ```
-        $ git clone https://github.com/sanjay-thiyagarajan/credible.git
-        $ cd credible
+        $ git clone https://github.com/TechieNK/Defender.git
+        $ cd Defender
  ```
 2. Create a python 3 virtualenv, and activate the environment.
  ```bash
