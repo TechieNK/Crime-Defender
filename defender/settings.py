@@ -25,7 +25,7 @@ SECRET_KEY = 'laras^p4(_c@^px8d7o09k9x)4%5@su6c0j7d@q#=55!)u^4#)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','crime-defender.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','accidento.herokuapp.com']
 
 
 # Application definition
