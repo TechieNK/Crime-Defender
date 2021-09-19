@@ -19,9 +19,9 @@ as to avoid conflicts with other projects.
         $ source bin/activate
  ```   
 3. Install the project dependencies
-    ```
+ ```
         $ pip install -r requirements.txt
-    ```
+ ```
 
  
 
