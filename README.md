@@ -17,7 +17,13 @@
  <li>Extraction of geolocations from the rendered article also took a very long time.</li>
 </ul>
  
-
+### What's next for Accidento
+ <ul>
+  <li>Planned to develop mobile application that would give a user-friendly experience.</li>
+  <li>Improvising the Extraction and Vizualisation part.</li>
+  <li>Planned to develop a module, whenever the accident happened the information would be passed to the nearby hospitals.</li>
+ </ul>
+ 
 ### Installation Instructions
 The portal is primarily a django based application, and to set it up we require to have 
 python environment with django and other project dependencies installed. Though one can
