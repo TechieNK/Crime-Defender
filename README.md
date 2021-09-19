@@ -29,7 +29,8 @@ From now when you start your work, run ``source bin/activate`` inside the projec
 * `python manage.py createsuperuser` - create admin user
 * `python manage.py runserver`  - run the project locally
 
- 
-
+### Build With: 
+<img align="left" alt="Bootstrap Studio" width="auto" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/240px-Bootstrap_Studio_Logo.png" />
+<img align="left" alt="Django" width="auto" height="70px" style="margin-top:5px" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" />
 
         
