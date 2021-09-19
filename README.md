@@ -1,5 +1,8 @@
 <h3 align="center">Accidento</h3>
 
+### Approach
+![](https://github.com/Techipeeyon/Images/raw/main/icons/approach.png)
+
 ### Installation Instructions
 The portal is primarily a django based application, and to set it up we require to have 
 python environment with django and other project dependencies installed. Though one can
