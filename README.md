@@ -9,6 +9,14 @@
 
 ### Approach
 ![](https://github.com/Techipeeyon/Images/raw/main/icons/Untitled%20Diagram.jpg)
+ 
+ 
+### Challenges we faced
+<ul>
+ <li>The vizualization of map took very long time that expected.</li>
+ <li>Extraction of geolocations from the rendered article also took a very long time.</li>
+</ul>
+ 
 
 ### Installation Instructions
 The portal is primarily a django based application, and to set it up we require to have 
