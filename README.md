@@ -22,6 +22,12 @@ as to avoid conflicts with other projects.
  ```
         $ pip install -r requirements.txt
  ```
+### After Setting Up
+From now when you start your work, run ``source bin/activate`` inside the project repository and you can work with the django application as usual - 
+
+* `python manage.py migrate` - set up database
+* `python manage.py createsuperuser` - create admin user
+* `python manage.py runserver`  - run the project locally
 
  
 
