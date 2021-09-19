@@ -1,1 +1,1 @@
-web: gunicorn crime_defender.wsgi
+web: gunicorn defender.wsgi
