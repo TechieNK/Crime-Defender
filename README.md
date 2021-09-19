@@ -1,7 +1,7 @@
 <h3 align="center">Accidento</h3>
 
 ### Approach
-<align="center>![](https://github.com/Techipeeyon/Images/raw/main/icons/Untitled%20Diagram.jpg)
+![](https://github.com/Techipeeyon/Images/raw/main/icons/Untitled%20Diagram.jpg)
 
 ### Installation Instructions
 The portal is primarily a django based application, and to set it up we require to have 
