@@ -1,5 +1,12 @@
 <h3 align="center">Accidento</h3>
 
+### What it does
+<p> Accidento is a web application, where people from all over the world can have an insight, where the accident occurred recently.</p>
+<ul>
+ <li>It displays the accidents occurred in major places</li>
+ <li>It insist to lay speed breakers in the accident-prone areas.</li>
+ <li>It insist us to be aware of the signboards.</li>
+
 ### Approach
 ![](https://github.com/Techipeeyon/Images/raw/main/icons/Untitled%20Diagram.jpg)
 
